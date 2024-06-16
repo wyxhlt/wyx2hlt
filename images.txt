@@ -1,1 +1,3 @@
 omicsclass/organelle-assembly
+omicsclass/pop-evol-gwas
+omicsclass/reseq
