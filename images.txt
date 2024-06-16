@@ -1,1 +1,1 @@
-omicsclass/organelle-assembly:v1.0
+omicsclass/organelle-assembly
