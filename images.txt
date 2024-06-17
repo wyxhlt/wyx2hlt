@@ -1,3 +1,2 @@
-omicsclass/organelle-assembly
-omicsclass/pop-evol-gwas
-omicsclass/reseq
+omicsclass/genome-comparison 
+omicsclass/r-server
