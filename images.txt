@@ -1,2 +1,1 @@
-omicsclass/genome-comparison 
-omicsclass/r-server
+omicsclass/pop-evol-gwas:v2.0
