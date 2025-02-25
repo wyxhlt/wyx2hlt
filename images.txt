@@ -1,2 +1,2 @@
-omicsclass/pop-evol-gwas:v2.0
+
 omicsclass/pop-evol-gwas:latest
